@@ -206,7 +206,7 @@ footer{
   display:flex;
   flex-direction:row;
   align-items:end;
-  margin-right:0px;
+  margin-right:20px;
   padding-right:0px;
   margin-left:70%;
 }
