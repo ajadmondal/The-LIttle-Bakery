@@ -67,6 +67,9 @@ nav{
   border-radius:5px;
   
 }
+#nav-link:hover{
+  color:#ff427f;
+}
 .cont{
   max-width:1000px;
   height:110px;
@@ -128,7 +131,7 @@ input{
   color:#f9f9f9;
   background:rgba(219, 4, 87,0.6);
 }
-#form:hover ,#nav-link:hover ,#feature > div:hover, #video:hover , .product:hover, .btn:hover,#submit:hover {
+#form:hover ,#feature > div:hover, #video:hover , .product:hover, .btn:hover,#submit:hover {
   box-shadow: 2px 2px 13px 5px rgba(0, 0, 0, 0.2);
 }
 #feature, #how-it-works {
