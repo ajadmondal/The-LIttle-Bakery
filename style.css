@@ -131,8 +131,11 @@ input{
   color:#f9f9f9;
   background:rgba(219, 4, 87,0.6);
 }
-#form:hover ,#feature > div:hover, #video:hover , .product:hover, .btn:hover,#submit:hover {
+#form:hover ,#feature > div:hover, #video:hover , .product, .btn:hover,#submit:hover {
   box-shadow: 2px 2px 13px 5px rgba(0, 0, 0, 0.2);
+}
+.product:hover{
+  box-shadow: 2px 2px 8px 5px rgba(0, 0, 0, 0.2);
 }
 #feature, #how-it-works {
   display:flex;
