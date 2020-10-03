@@ -1,5 +1,5 @@
 # The Little Bakery
-It is the frontend of a bakery site made with only CSS and HTML. 
+Let's make a delicious website. It's the frontend of a bakery site made using CSS and HTML only.
 
 You can view the site on :
 https://ajadmondal.github.io/The-LIttle-Bakery/
